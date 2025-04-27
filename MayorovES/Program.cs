@@ -2,3 +2,18 @@
 Console.WriteLine("Hello, World!");
 // МЕС Ам-1-24
 //solve task2
+
+
+
+double Х = Convert.ToInt32(Console.ReadLine());
+double r = Sqr(Х);
+
+static double Sqr(double X)
+{
+    return X * X;
+}
+
+
+
+
+Console.WriteLine("Квадрат числа " + Х + ":" + r);
