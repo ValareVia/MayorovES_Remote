@@ -1,6 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
 // МЕС Ам-1-24
+//solve task3
 
 
 
@@ -17,5 +18,7 @@ static double Sqr(double X)
 
 
 Console.WriteLine("Квадрат числа " + Х + ":" + r);
+
 //solve task2
 //solve task1
+
